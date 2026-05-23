@@ -1,0 +1,20 @@
+[
+  {
+    "title": "CVortex",
+    "ecosystem": "ai",
+    "description": "An AI-powered resume analysis engine constructed using machine learning pipelines and NLP packages. Delivered real-time automated structural adjustment critiques to 10,000+ engineers, expanding end-user tracking optimization success marks by 40%.",
+    "tags": ["Flask", "FastAPI", "NLP Libraries", "Python", "Machine Learning"],
+    "github": "https://github.com/Keshav-K-2008",
+    "live": "https://github.com/Keshav-K-2008",
+    "image": "assets/cvortex.png"
+  },
+  {
+    "title": "Digital Death Locker",
+    "ecosystem": "fullstack",
+    "description": "A high-security distribution platform built to house and systematically transition digital parameters. Encrypted data privacy layouts and access boundaries yielded 95% reliable architectural confirmation results.",
+    "tags": ["MongoDB", "Express.js", "React.js", "Node.js"],
+    "github": "https://github.com/Keshav-K-2008",
+    "live": "https://github.com/Keshav-K-2008",
+    "image": "assets/death_locker.png"
+  }
+]
